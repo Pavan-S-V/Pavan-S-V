@@ -46,70 +46,52 @@ I enjoy learning by building projects, solving programming problems, and continu
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
 </p>
 
----
-
 ## 🚀 Featured Projects
 
 ### 🎓 SIDSS — Student Intelligence Decision Support System
 
-A real-time student intelligence and decision-support system designed to help educational institutions manage, analyze, and understand student data.
+A real-time student intelligence and decision-support system for managing and analyzing student data in an educational environment.
 
 **Key Features**
+- Student Management
+- Academic Performance Analysis
+- Marks & Attendance Management
+- Placement Management
+- Role-Based Dashboards & Access
+- Data Visualization & Insights
+- Real-Time Data Management
 
-- 👨‍🎓 Student Management
-- 📊 Academic Performance Analysis
-- 📝 Marks Management
-- 📅 Attendance Management
-- 💼 Placement Management
-- 🎯 Role-Based Dashboards
-- 🔐 Role-Based Access
-- 📈 Data Visualization & Insights
-- 🗂️ Centralized Data Management
-- ⚡ Real-Time System
-
-**Tech Stack**
-
-`Google Apps Script` • `HTML` • `CSS` • `JavaScript` • `Google Sheets` • `Chart.js`
+**Tech Stack:** `Google Apps Script` • `HTML` • `CSS` • `JavaScript` • `Google Sheets` • `Chart.js`
 
 ---
 
 ### 🎯 KCET College & Course Predictor
 
-A web-based platform designed to help students explore KCET college and course options based on their rank and preferences.
+A web application that helps students explore KCET college and course options based on their rank and preferences.
 
 **Features**
+- KCET College & Course Exploration
+- Rank-Based Prediction
+- College & Course Search
+- College & Course Information
+- Responsive User Interface
 
-- 🎓 KCET College & Course Exploration
-- 📊 Rank-Based College Prediction
-- 🔍 College & Course Search
-- 🏫 College Information
-- 📚 Course Information
-- 💡 Student-Friendly Interface
-- 📱 Responsive Web Design
-
-**Tech Stack**
-
-`HTML` • `CSS` • `JavaScript`
+**Tech Stack:** `HTML` • `CSS` • `JavaScript`
 
 ---
 
 ### 🧮 VTU SGPA & CGPA Calculator
 
-A web-based calculator designed for VTU students to calculate SGPA and CGPA using subject marks and credits.
+A simple web application for calculating VTU SGPA and CGPA using subject marks and credits.
 
 **Features**
+- Subject-wise Marks Input
+- Credit-Based Calculation
+- SGPA Calculation
+- CGPA Calculation
+- Simple & Fast Interface
 
-- 📝 Subject-wise Marks Input
-- 🎯 Credit-Based Calculation
-- 📊 SGPA Calculation
-- 📈 CGPA Calculation
-- ⚡ Simple & Fast Interface
-
-**Tech Stack**
-
-`HTML` • `CSS` • `JavaScript`
-
----
+**Tech Stack:** `HTML` • `CSS` • `JavaScript`
 
 ## 🧠 Currently Learning
 
