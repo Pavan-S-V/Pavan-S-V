@@ -126,7 +126,3 @@ A simple web application for calculating VTU SGPA and CGPA using subject marks a
 ---
 
 <h3 align="center">⭐ Thanks for visiting my profile!</h3>
-
-<p align="center">
-  <i>Always learning. Always building. Always improving. 🚀</i>
-</p>
