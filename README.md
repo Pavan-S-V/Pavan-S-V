@@ -29,53 +29,21 @@ I enjoy learning by building projects, solving programming problems, and continu
 ## 🛠️ Languages & Tools
 
 <p align="left">
-
-<a href="https://www.cprogramming.com/">
   <img src="https://skillicons.dev/icons?i=c" width="50" height="50" alt="C"/>
-</a>
-
-<a href="https://www.python.org/">
   <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
   <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript"/>
-</a>
-
-<a href="https://www.mongodb.com/">
   <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB"/>
-</a>
-
-<a href="https://git-scm.com/">
   <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/>
-</a>
-
-<a href="https://github.com/">
   <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/>
-</a>
-
-<a href="https://code.visualstudio.com/">
   <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code"/>
-</a>
-
 </p>
 
 <p align="left">
-
-<img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Apps Script"/>
-
-<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
-
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
-
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Apps Script"/>
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
 </p>
 
 ---
